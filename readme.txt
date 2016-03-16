@@ -36,3 +36,5 @@ This is a glue plugin between EDD and Polylang. You need to have both in order f
 
 = 1.0.0 =
 * First release
+
+
